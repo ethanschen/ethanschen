@@ -1,3 +1,14 @@
+# 🚀 This site has moved
+
+My personal website has been migrated to a new home.
+
+👉 New site: [me.oasak.xyz](https://me.oasak.xyz)  
+👉 GitHub: [@ethan0xbuilds](https://github.com/ethan0xbuilds)
+
+*Old content is no longer maintained here.*
+
+---
+
 # Ethan S. Chen's Blog
 
 ## 📌 这是什么？
