@@ -13,7 +13,7 @@ comments: true
 
 - 手机：***-****-****
 - 邮箱：[***@***.***](mailto:***@***.***)
-- 微信：[ethanschen](https://www.ethans.space/personal/wechat/)
+- 微信：[***](https://www.ethans.space/personal/wechat/)
 
 ## 个人信息
 
