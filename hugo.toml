@@ -1,4 +1,4 @@
-baseURL = "https://ethans.space/"
+baseURL = "https://ethanschen.github.io/"
 languageCode = "zh-cn"
 theme = "hugo-theme-stack"
 copyright = "Ethan S. Chen"
