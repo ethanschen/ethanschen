@@ -11,8 +11,8 @@ comments: true
 
 ## 联系方式
 
-- 手机：17859016117
-- 邮箱：[ethanschen@163.com](mailto:ethanschen@163.com)
+- 手机：***-****-****
+- 邮箱：[***@***.***](mailto:***@***.***)
 - 微信：[ethanschen](https://www.ethans.space/personal/wechat/)
 
 ## 个人信息
